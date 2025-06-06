@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-stocks-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98dba1ce22f97c0e546daf8dc3591ebb45ef7368")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c30dc92f2f9670773711bda47cae3cb3afa84ddb")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-stocks-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-stocks-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
