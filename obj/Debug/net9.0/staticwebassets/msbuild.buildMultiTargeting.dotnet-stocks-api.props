@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/dotnet-stocks-api.props" />
+</Project>

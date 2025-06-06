@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YyMmhgeATrjzZfROymzgJq+4/76NEHPVBHPWjxrJFJE=",
+  "Source": "dotnet-stocks-api",
+  "BasePath": "_content/dotnet-stocks-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
