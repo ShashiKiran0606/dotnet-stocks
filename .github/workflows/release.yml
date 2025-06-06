@@ -1,8 +1,8 @@
-name: CI/CD to AWS App Runner via ECR
+name: Release Pipeline
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 env:
   AWS_REGION: ${{ secrets.AWS_REGION }}
